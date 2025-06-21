@@ -1,13 +1,25 @@
-# 📱 Phonebook App (Python)
+# 🐍 Python Mini Projects
 
-A simple command-line phonebook manager built in Python using dictionaries.
+## 📱 Phonebook App
+A simple command-line phonebook using dictionaries.
 
-## Features
-- Add contact
-- Search contact
-- Delete contact
-- Exit safely
+**Features:**
+- Add, search, delete contacts
+- Data stored in memory
+
+---
+
+## 📝 Journal App
+A command-line journal that saves your entries to a file.
+
+**Features:**
+- Write new entries
+- View all saved entries
+- File I/O and error handling
+
+---
 
 ## How to Run
 ```bash
 python phonebook.py
+python journal_app.py
